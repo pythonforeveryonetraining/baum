@@ -27,6 +27,13 @@ output:
 ├── localtest.py
 └── pyproject.toml
 ```
+## Install
+
+```
+pip install -i https://test.pypi.org/simple/ baum-CodersBringChange
+```
+
+From [TestPyPI](https://test.pypi.org/project/baum-CodersBringChange)
 
 ## Features
 
